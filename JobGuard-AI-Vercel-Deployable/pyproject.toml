@@ -1,0 +1,13 @@
+[project]
+name = "jobguard-ai"
+version = "1.2.0"
+description = "Evidence-Based Job & Recruitment Verification Platform"
+requires-python = ">=3.10"
+
+[tool.ruff]
+line-length = 110
+target-version = "py311"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]

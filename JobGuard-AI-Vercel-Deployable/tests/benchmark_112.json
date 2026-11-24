@@ -1,0 +1,786 @@
+[
+  {
+    "id": "SCAM-001",
+    "channel": "WhatsApp",
+    "text": "Hello! We are hiring part-time online assistants. Earn $150-$400 daily just by liking YouTube videos and subscribing to channels. Only 30 minutes a day. Age 22+. Reply YES to get started via [HANDLE].",
+    "notes": "Unrealistic pay, unsolicited outreach, simple task lure",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-002",
+    "channel": "SMS",
+    "text": "HR Notice: Your resume was shortlisted for our Remote App Optimization role. Daily settlement $200-$500 in USDT/bank transfer. No experience required. Contact our receptionist on WhatsApp: [PHONE].",
+    "notes": "Crypto payout, no experience, off-platform WhatsApp redirect",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-003",
+    "channel": "Telegram",
+    "text": "Welcome to [COMPANY] Digital Marketing! Complete 35 simple hotel rating tasks per day from your phone and earn $3,500/month plus commission. Free training provided. Tap [LINK] to claim your $50 welcome bonus.",
+    "notes": "Welcome bonus bait, review-boosting task scam, suspicious link",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-004",
+    "channel": "WhatsApp",
+    "text": "Hi, I'm Sarah from [AGENCY]. We need remote testers to click and review e-commerce products to increase merchant visibility. Flexible hours, earn ₹3,000-₹8,000/day instantly. Interested? Message [HANDLE].",
+    "notes": "Click-farming task scam, instant daily payout promise",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-005",
+    "channel": "SMS",
+    "text": "Part-time job alert! Work from home using your smartphone. Rate Google Maps locations and get paid ₹150 per review. First 3 tasks paid immediately to your UPI! Join our Telegram group: [LINK].",
+    "notes": "Paid fake reviews, immediate small payout bait, Telegram redirect",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-006",
+    "channel": "Email",
+    "text": "Subject: Flexible Remote Product Booster Needed\nDear Candidate, Our global e-commerce partners need remote assistants to submit 40 order optimizations daily. Base salary $1,200 every 5 days + 1% commission. Reply with your WhatsApp number to begin.",
+    "notes": "Order-boosting task scam, unusual 5-day pay cycle, WhatsApp harvest",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-007",
+    "channel": "WhatsApp",
+    "text": "Good day! We are recruiting online part-timers (25+ only). Just follow Instagram accounts and send screenshots to earn $80-$250/day. Zero investment needed! Reply 'INFO' to connect with our tutor.",
+    "notes": "Screenshot-for-pay lure, age filter (typical of task scams), 'tutor' terminology",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-008",
+    "channel": "Telegram",
+    "text": "EARN FROM HOME! [PLATFORM] is hiring VIP Task Operators. Complete 3 sets of 30 clicks daily. Unlock higher commission tiers by upgrading your workbench balance. Guaranteed $300/day. Start here: [LINK].",
+    "notes": "Tiered 'workbench' deposit trap, guaranteed high daily income",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-009",
+    "channel": "SMS",
+    "text": "Excuse me, are you looking for a side job? We offer remote movie-rating tasks that take 20 mins/day. Earn $100-$300 paid daily. No resume needed. Text our manager at [PHONE] for onboarding.",
+    "notes": "Unsolicited conversational opener, no resume needed, high pay for minimal effort",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-010",
+    "channel": "Email",
+    "text": "Subject: Final Step to Activate Your Offer\nCongratulations! You have been selected for the Remote Customer Support role ($32/hr). To issue your employee portal ID and background clearance, please submit a refundable $85 registration fee via [LINK] within 24 hours.",
+    "notes": "Refundable registration fee, urgency deadline, unverified link",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-011",
+    "channel": "WhatsApp",
+    "text": "Dear Applicant, your application for [COMPANY] Data Associate is approved. Before we dispatch your offer letter and laptop, please pay the ₹2,499 security deposit via UPI to [UPI_ID]. Refunded with your first salary!",
+    "notes": "Security deposit for job/laptop, UPI payment request",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-012",
+    "channel": "Email",
+    "text": "Subject: Mandatory Onboarding Certification Required\nWelcome to the team! Before your start date on Monday, all new hires must complete our proprietary compliance course ($149) through our partner portal [LINK]. Your salary of $65,000/yr begins immediately after.",
+    "notes": "Pay-to-work mandatory certification through proprietary link",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-013",
+    "channel": "Job Portal",
+    "text": "Urgent Hiring: Airport Ground Staff & Ticketing Executive. Salary ₹35,000-₹55,000 + accommodation. Freshers welcome! Note: ₹1,800 uniform & gate-pass processing fee applies at interview. Call [PHONE].",
+    "notes": "Classic airline/airport job fee scam, uniform/gate-pass fee",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-014",
+    "channel": "Email",
+    "text": "Subject: Offer Confirmation — Document Verification Fee\nWe are pleased to extend an offer for Junior Project Coordinator. To finalize HR verification and payroll setup, kindly wire $120 to our verification agency using the details attached. Failure to pay within 48 hours forfeits the position.",
+    "notes": "Wire transfer for HR verification, coercive 48-hour deadline",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-015",
+    "channel": "SMS",
+    "text": "[COMPANY] HR: You passed Round 1! To unlock your joining letter and company health card, deposit ₹3,500 (100% refundable after 30 days) at [LINK]. Slots are filling fast!",
+    "notes": "Refundable fee to unlock joining letter, artificial scarcity",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-016",
+    "channel": "LinkedIn",
+    "text": "Hi [NAME], we loved your profile for our Remote QA Analyst role ($45/hr). Since you are outside our primary region, you'll just need to cover a $200 international payroll activation fee before Day 1. Let me know if I should send the payment link.",
+    "notes": "International payroll activation fee, unsolicited high hourly rate",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-017",
+    "channel": "WhatsApp",
+    "text": "Congratulations on clearing the telephonic round! Your CTC is 8.5 LPA. Please pay ₹1,500 for your biometric smart card and training kit to [PHONE] so HR can release your appointment letter today.",
+    "notes": "Fee for smart card/training kit before appointment letter",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-018",
+    "channel": "Email",
+    "text": "Subject: Home Office Setup — Check Dispatched\nWelcome aboard as our Remote Administrative Assistant! We are mailing you a $3,850 check to purchase your MacBook Pro, printer, and time-tracking software from our accredited vendor. Once deposited, wire the funds to the vendor at [EMAIL].",
+    "notes": "Fake check to pay 'accredited vendor', wire transfer instruction",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-019",
+    "channel": "Telegram",
+    "text": "Hi [NAME], HR has approved your $2,900 equipment grant. I am emailing you a mobile e-check right now. Please deposit it via your banking app today and send $2,600 via Zelle to our IT supplier [HANDLE] so they ship your workstation overnight.",
+    "notes": "E-check mobile deposit + Zelle to IT supplier",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-020",
+    "channel": "Email",
+    "text": "Subject: Urgent: Accounting Error on Your Onboarding Check\nApologies! Payroll accidentally issued your sign-on and equipment check for $4,500 instead of $1,500. Please deposit the check immediately and return the $3,000 excess via wire transfer or Bitcoin ATM so we can close the quarter.",
+    "notes": "Overpayment fake check scam, crypto/wire refund request",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-021",
+    "channel": "WhatsApp",
+    "text": "Your remote Data Analyst workstation package is ready. We will send a $3,200 check to your address. Keep $400 as your Week 1 advance and transfer $2,800 via CashApp to our logistics coordinator at [HANDLE].",
+    "notes": "Keep-a-portion advance + CashApp transfer to third party",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-022",
+    "channel": "Email",
+    "text": "Subject: Software Licensing Reimbursement Process\nTo work remotely for [COMPANY], you need our enterprise CRM suite ($1,850). We have issued a company check for $2,200. Deposit it, pay the software vendor via [LINK], and retain the remaining $350 as your onboarding bonus.",
+    "notes": "Fake check for proprietary software purchase + bonus retention",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-023",
+    "channel": "SMS",
+    "text": "[COMPANY] Onboarding: Your $3,100 equipment check was delivered! Please deposit it today and text a screenshot of the deposit receipt to [PHONE] so we can give you the vendor's payment details.",
+    "notes": "Requesting deposit screenshot to rush transfer before check bounces",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-024",
+    "channel": "Email",
+    "text": "Subject: Remote Graphic Designer — Equipment Stipend\nCongratulations! Instead of shipping hardware internationally, we are sending a certified check for $4,100. Once it shows in your available balance, purchase Apple Gift Cards or send an instant transfer to our vendor to avoid customs delays.",
+    "notes": "Certified check + gift cards/instant transfer to vendor",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-025",
+    "channel": "Email",
+    "text": "From: hr-careers@[COMPANY]-recruitment-portal.example\nSubject: Direct Offer — Remote Operations Specialist ($55/hr)\nWe reviewed your public profile and want to offer you an immediate full-time remote role with [MAJOR_TECH_BRAND]. No interview required. Sign and return your bank details by 5 PM.",
+    "notes": "Lookalike domain, no-interview direct offer, immediate bank details request",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-026",
+    "channel": "SMS",
+    "text": "Hi! I'm a recruiter from [MAJOR_ECOMMERCE_BRAND] HR. We are hiring remote order-fulfillment coordinators. Work 1-2 hours/day, earn $250-$600 daily. Must be 23+. Text us on WhatsApp: [PHONE].",
+    "notes": "Major brand impersonation, unrealistic pay for 1-2 hours, WhatsApp pivot",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-027",
+    "channel": "Email",
+    "text": "From: hiringmanager.global@gmail.com\nSubject: [MAJOR_CONSULTING_FIRM] Executive Assistant Offer\nDear Candidate, You have been hand-picked for a remote Executive Assistant role ($95,000/yr). Please reply from your personal email and add our Director on Telegram: [HANDLE].",
+    "notes": "Free Gmail domain for major firm, Telegram redirect",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-028",
+    "channel": "WhatsApp",
+    "text": "Greetings from [MAJOR_RETAIL_BRAND] Careers! Your number was selected from our hiring database for a Work-From-Home Customer Chat role ($38/hr, full benefits). Complete quick registration here: [LINK].",
+    "notes": "Unsolicited WhatsApp from major retailer, suspicious registration link",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-029",
+    "channel": "LinkedIn",
+    "text": "Hello! I represent the talent acquisition team at [MAJOR_STREAMING_BRAND]. We're urgently filling remote Content Reviewer roles ($42/hr, zero experience needed). Apply exclusively via our external HR bot on Telegram: [HANDLE].",
+    "notes": "Impersonating major brand, zero experience for high pay, Telegram bot",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-030",
+    "channel": "Email",
+    "text": "Subject: Official Job Offer — [MAJOR_LOGISTICS_BRAND]\nYou are hired! Salary: $4,800/month bi-weekly. To receive your employee badge and company phone, verify your identity by uploading your passport and debit card front/back at [LINK].",
+    "notes": "Immediate hire without interview, asking for debit card photos",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-031",
+    "channel": "SMS",
+    "text": "[MAJOR_JOB_BOARD] Alert: A Fortune 500 employer matched your profile for a $60/hr remote role! Reply 'YES' within 2 hours to claim your priority slot or contact [PHONE] on WhatsApp.",
+    "notes": "Impersonating job board, extreme urgency, WhatsApp contact",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-032",
+    "channel": "Email",
+    "text": "From: talent@[COMPANY]-hiring-desk.example\nSubject: Immediate Start: Remote Billing Clerk\nWe are expanding our finance team at [MAJOR_BANK_BRAND]. Starting pay $48/hr + $3,000 sign-on bonus. Complete the 10-minute text interview on Signal with [HANDLE] today.",
+    "notes": "Lookalike domain, Signal text-only interview for banking role",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-033",
+    "channel": "WhatsApp",
+    "text": "HOME-BASED TYPING JOB! Convert scanned PDF pages into MS Word at home. Earn ₹500 per page (up to ₹45,000/month). No target pressure! Pay ₹999 one-time portal activation fee to receive your first 50 pages. Contact [PHONE].",
+    "notes": "PDF-to-Word typing scam, upfront portal activation fee",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-034",
+    "channel": "Email",
+    "text": "Subject: Remote Copy-Paste & Form Filling — $35/Hour\nEarn up to $1,400 weekly simply copying product descriptions into our online forms. Laptop or phone accepted. Click [LINK] to purchase your $49 starter database access key.",
+    "notes": "Unrealistic pay for copy-paste, paid database access key",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-035",
+    "channel": "SMS",
+    "text": "Urgent WFH Vacancy: Simple Captcha Entry & Data Typing. Earn ₹1,200 to ₹2,500 daily! Weekly bank payout. Limited seats. Register now at [LINK] or WhatsApp [PHONE].",
+    "notes": "Captcha/data typing scam, high daily pay promise",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-036",
+    "channel": "Job Portal",
+    "text": "Online Ad-Posting & Form-Filling Associate Needed. Work 2 hours daily from mobile. Guaranteed ₹30,000/month. Note: Refundable ₹1,999 agreement stamp-duty charge required before login credentials are issued.",
+    "notes": "Ad-posting/form-filling scam, fake stamp-duty fee",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-037",
+    "channel": "Email",
+    "text": "Subject: Final Notice — Accuracy Penalty on Your Typing Project\nDear Freelancer, Your submitted 100-page typing file scored 74% accuracy (below our 90% threshold). Per your digital agreement, you must pay a ₹7,500 legal settlement fee within 24 hours at [LINK] to avoid court action.",
+    "notes": "Post-work 'accuracy penalty' extortion typical of typing scams",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-038",
+    "channel": "Telegram",
+    "text": "Hiring 50 Remote Data Entry Clerks! $28/hr, flexible schedule, no interview. Just type invoice numbers into spreadsheets. Message [HANDLE] with your full name, address, and a $35 software setup fee.",
+    "notes": "No-interview data entry, upfront software setup fee",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-039",
+    "channel": "WhatsApp",
+    "text": "Looking for students & homemakers for simple handwriting/notebook writing jobs at home! We courier notebooks to you; earn ₹25,000/month. Pay ₹1,200 courier & security deposit to book your slot: [PHONE].",
+    "notes": "Handwriting job scam, upfront courier/security deposit",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-040",
+    "channel": "Email",
+    "text": "Subject: Guaranteed $2,500/Week Medical Billing & Data Entry\nNo medical background needed! Purchase our $199 home-billing software kit at [LINK] and start earning immediately from our guaranteed client list.",
+    "notes": "Paid software kit for 'guaranteed' work-from-home medical billing",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-041",
+    "channel": "Email",
+    "text": "Subject: Remote Quality Control & Logistics Inspector ($3,600/mo)\nWe need US-based Quality Control Managers to receive electronics and luxury packages at your home, inspect for damage, remove original invoices, and ship them via prepaid labels to our international clients. Apply at [LINK].",
+    "notes": "Receive at home, remove invoices, reship internationally",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-042",
+    "channel": "Job Portal",
+    "text": "Work-From-Home Package Forwarding Coordinator. Earn $40 per parcel plus $2,800 base monthly salary! No lifting over 10 lbs. Packages are sent to your residence; you consolidate and drop them off at UPS/FedEx. Contact [EMAIL].",
+    "notes": "Per-parcel pay + residential receiving + consolidation",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-043",
+    "channel": "WhatsApp",
+    "text": "Hi! [COMPANY] Logistics is hiring Regional Shipping Agents. Receive online orders at your home address, take photos of the items, and forward them using labels we email you. Paid $3,200/month after 30-day probation. Reply to start!",
+    "notes": "30-day probation (never paid), residential parcel forwarding",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-044",
+    "channel": "Email",
+    "text": "Subject: Flexible Part-Time Merchandise Inspector\nHelp our overseas shoppers save on shipping! Receive 10-15 parcels weekly at your address, verify contents against our dashboard [LINK], and print new shipping labels. $50 bonus for same-day dispatch.",
+    "notes": "Same-day dispatch rush, residential parcel mule operation",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-045",
+    "channel": "SMS",
+    "text": "Hiring Home-Based Logistics Assistants! Earn $1,000/week receiving and forwarding retail shipments from home. Must have a printer and valid ID. Apply today: [LINK].",
+    "notes": "Home-based parcel forwarding, ID harvest",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-046",
+    "channel": "Email",
+    "text": "Subject: Remote Inventory & Returns Processor\nOur e-commerce clients need local addresses to process returned smartphones and laptops. Receive the package, discard the retail receipt, and forward it to our overseas warehouse. $4,000/mo salary. Reply with your home address.",
+    "notes": "Discarding retail receipts, forwarding high-value electronics",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-047",
+    "channel": "LinkedIn",
+    "text": "Hello [NAME], we are expanding our domestic fulfillment network and need trusted local agents to receive and re-label parcels from home. 1 hour/day, $3,000/month. Message [HANDLE] on Telegram for onboarding.",
+    "notes": "Re-labeling parcels from home, Telegram onboarding",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-048",
+    "channel": "Email",
+    "text": "Subject: Remote Financial Representative — 8% Commission\nOur European art gallery needs a local Financial Agent to receive client payments into your bank account, keep 8% commission, and forward the remainder via crypto/wire to our headquarters. No experience needed. Reply to [EMAIL].",
+    "notes": "Using personal bank account to receive & forward funds via crypto",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-049",
+    "channel": "Telegram",
+    "text": "Urgent Hiring: Regional Payment Processor! Receive Zelle/Venmo transfers from our US customers, convert to USDT on [EXCHANGE], and send to our corporate wallet. Earn $300-$700/day legally from home! DM [HANDLE].",
+    "notes": "Zelle-to-USDT conversion, classic money mule recruitment",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-050",
+    "channel": "WhatsApp",
+    "text": "Part-Time Crypto Treasury Assistant needed! We deposit funds into your account; you purchase Bitcoin and transfer it to our international suppliers. Keep 5% of every transaction ($2,000+/week). Must have an active bank account.",
+    "notes": "Personal bank account + Bitcoin forwarding for 5% cut",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-051",
+    "channel": "Email",
+    "text": "Subject: Freelance Invoice Collector — Work From Home\nDue to international banking delays, [COMPANY] needs local billing representatives to accept domestic bank wires from our clients and remit them via Western Union. Base pay $2,500/mo + 5% per transfer. Apply: [LINK].",
+    "notes": "Excusing international banking delays to use personal account + Western Union",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-052",
+    "channel": "Job Portal",
+    "text": "Remote Crypto Arbitrage & Transfer Agent. Receive verified corporate funds, execute simple wallet transfers as instructed by your manager, and earn $450/day. Zero capital required! Apply via WhatsApp: [PHONE].",
+    "notes": "Receiving corporate funds to execute wallet transfers",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-053",
+    "channel": "SMS",
+    "text": "Earn ₹50,000/month renting out your unused bank account or UPI ID for our gaming platform payouts! 100% safe and legal. Daily commission credited. Contact [HANDLE] on Telegram.",
+    "notes": "Bank account / UPI ID rental (mule account solicitation)",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-054",
+    "channel": "Email",
+    "text": "Subject: Remote Charity Donation Coordinator\nHelp our international NGO process local donor checks! Deposit checks into your personal checking account and wire 90% to our overseas relief center. Retain 10% as your coordinator stipend. Reply ASAP.",
+    "notes": "Charity cover story for personal-account check laundering",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-055",
+    "channel": "Email",
+    "text": "Subject: Interview Invitation — Remote Administrative Coordinator\nCongratulations! Your resume stood out. All interviews are conducted exclusively via text chat on Telegram. Please download Telegram and message our Hiring Manager [HANDLE] with verification code HR-902.",
+    "notes": "Text-only interview on Telegram, verification code theater",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-056",
+    "channel": "WhatsApp",
+    "text": "Hello [NAME], this is Mark from [COMPANY] HR. Your 15-minute text interview is complete and you scored 98%! You are hired at $45/hr. Please send your full SSN, date of birth, and a photo of your driver's license right here to set up direct deposit.",
+    "notes": "Instant hire after text chat, requesting SSN & ID over WhatsApp",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-057",
+    "channel": "Email",
+    "text": "Subject: Urgent: Complete Your Signal Interview Today\nWe are hiring immediately for Remote Payroll Clerk ($40/hr). No phone or video calls required—simply message [HANDLE] on Signal within the next 3 hours to answer 5 written questions and receive your offer.",
+    "notes": "No phone/video calls, Signal app redirect, 3-hour urgency",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-058",
+    "channel": "Telegram",
+    "text": "Welcome! After reviewing your 4 chat responses, the board has unanimously approved your hiring for Senior Remote Support ($52/hr). Send your bank routing number, account number, and mother's maiden name so we can issue your $1,000 sign-on bonus.",
+    "notes": "Instant board approval via chat, asking for security-question PII",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-059",
+    "channel": "SMS",
+    "text": "[COMPANY] Talent Team: You're invited to an instant chat interview for Remote HR Assistant ($38/hr). Reply YES or message our recruiter on Microsoft Teams using this external link: [LINK].",
+    "notes": "Instant chat interview, high pay for entry role, unverified link",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-060",
+    "channel": "WhatsApp",
+    "text": "Hi! To fast-track your hiring for our Remote Operations role (₹75,000/mo), skip the panel interview by sharing your Aadhaar, PAN card, and 6-month bank statement PDF right now on WhatsApp.",
+    "notes": "Skipping interview in exchange for sensitive identity/financial documents",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-061",
+    "channel": "Email",
+    "text": "Subject: Offer of Employment — Immediate Action Required\nBased on your brief text briefing with our recruiter, you are officially hired! Please reply with a selfie holding your passport and your online banking credentials so payroll can verify your account.",
+    "notes": "Requesting online banking credentials and passport selfie",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-062",
+    "channel": "Email",
+    "text": "Subject: Guaranteed Canada Work Permit & Hotel Job Offer\nCongratulations! [HOTEL_NAME] Toronto has selected you as Housekeeping Supervisor ($4,200/mo + free flight & housing). No IELTS needed! Pay $450 visa-stamping fee to our immigration agent [EMAIL] within 72 hours.",
+    "notes": "Guaranteed work permit, no language test, upfront visa-stamping fee",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-063",
+    "channel": "WhatsApp",
+    "text": "URGENT DUBAI/QATAR HIRING! Drivers, Electricians, Warehouse Staff. Salary 5,500 AED + free food & room. Direct company visa in 7 days! Send passport copy + ₹18,000 medical & embassy fee to [PHONE].",
+    "notes": "Unusually fast visa guarantee, upfront medical/embassy fee via WhatsApp",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-064",
+    "channel": "Job Portal",
+    "text": "Work in UK/Germany — Caregivers & Warehouse Packers Needed Immediately! Sponsorship provided, zero experience required, £3,800/month. Pay £250 Certificate of Sponsorship (CoS) reservation fee at [LINK].",
+    "notes": "Charging candidate for CoS reservation, zero experience high salary",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-065",
+    "channel": "Email",
+    "text": "Subject: Official Embassy Approval — Air Ticket Deposit Required\nYour Australian agricultural work visa has been approved by our partner agency. To release your sponsored flight ticket and employment contract, wire $600 to our travel desk [LINK] by Friday.",
+    "notes": "Wire transfer to release sponsored flight ticket",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-066",
+    "channel": "SMS",
+    "text": "Move to Europe in 30 days! Guaranteed warehouse & packaging jobs in Poland/Malta. Salary €2,800/mo. Apply with just your passport! Registration fee ₹5,000. Call [PHONE] now.",
+    "notes": "Guaranteed overseas visa in 30 days, upfront registration fee",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-067",
+    "channel": "Email",
+    "text": "Subject: Oil Rig & Offshore Crew Recruitment — $8,500/Month\n[OIL_COMPANY] is hiring international offshore technicians (no prior offshore experience required). Free travel & accommodation. Submit $380 for mandatory offshore safety clearance at [LINK].",
+    "notes": "Classic oil rig job scam, no experience needed, safety clearance fee",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-068",
+    "channel": "WhatsApp",
+    "text": "Dear Candidate, your Singapore IT Work Pass is ready for collection! Please transfer ₹25,000 for MOM verification and insurance bond to [UPI_ID] so our consultant can courier your visa today.",
+    "notes": "Fake government verification fee via personal UPI",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-069",
+    "channel": "Email",
+    "text": "Subject: Action Required: Complete Mandatory Credit Check for Interview\nBefore we can schedule your interview for Remote Financial Analyst, you must pull your credit score using our exclusive verification link [LINK] (requires credit card entry for $1 verification). Send us the confirmation number.",
+    "notes": "Affiliate/phishing credit-check link requiring credit card entry",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-070",
+    "channel": "SMS",
+    "text": "[COMPANY] Careers: Your application status has been updated! Sign in with your Google or Microsoft account at [LINK] to view your interview schedule.",
+    "notes": "Credential harvesting phishing link asking for Google/Microsoft login",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-071",
+    "channel": "Email",
+    "text": "Subject: Direct Deposit Verification Failed — Re-enter Banking Login\nDear New Hire, Our automated payroll system could not verify your bank account. Please log into your bank through our secure HR verification portal [LINK] to avoid payroll suspension.",
+    "notes": "Phishing portal asking for online banking login credentials",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-072",
+    "channel": "WhatsApp",
+    "text": "Hi! To confirm you are a real applicant for our remote project, please share the 6-digit Google Voice / OTP verification code we just sent to your phone number.",
+    "notes": "OTP / Google Voice verification code theft disguised as applicant screening",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-073",
+    "channel": "Email",
+    "text": "Subject: Complete Your W-4 & I-9 Forms Before Screening\nThank you for applying! Before our hiring manager reviews your resume, please submit your full Social Security Number, bank account details, and driver's license scan on this Google Form: [LINK].",
+    "notes": "Requesting SSN and bank details via generic form before any interview",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-074",
+    "channel": "LinkedIn",
+    "text": "Hi [NAME], we'd love to share our detailed salary band and job description for the Senior Engineer role. Download and run our encrypted job-offer viewer (.zip/.exe) from [LINK] using password 'hire2026'.",
+    "notes": "Password-protected archive/executable disguised as job description (malware lure)",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-075",
+    "channel": "Email",
+    "text": "Subject: Identity Verification Needed for Remote Contractor Role\nTo comply with tax laws, please create a verified account on [CRYPTO_EXCHANGE] using your passport and share the login credentials with our payroll team so we can deposit your weekly wages.",
+    "notes": "Asking victim to open and hand over KYC-verified crypto exchange account",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-076",
+    "channel": "LinkedIn",
+    "text": "Hi [NAME]! I'm expanding my mentorship circle and looking for 5 ambitious individuals to build a 6-figure residual income from their phone. No boss, unlimited upside! Drop 'READY' to attend our exclusive Zoom webinar.",
+    "notes": "Vague residual income pitch, mentorship/webinar funnel",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-077",
+    "channel": "Job Portal",
+    "text": "Hiring Junior Brand Ambassadors & Business Leaders! Earn $5,000-$10,000/month working part-time. Note: New associates must purchase our $299 Wellness Starter Kit to demonstrate product passion and unlock referral commissions.",
+    "notes": "Mandatory starter kit purchase, referral-based compensation",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-078",
+    "channel": "WhatsApp",
+    "text": "Tired of your 9-to-5? Join our global digital entrepreneurship team! Earn ₹1,00,000+/month by building a network of 3 driven partners. Small ₹12,000 joining package gives you lifetime business rights. Message [PHONE]!",
+    "notes": "Recruitment-driven payout structure, joining package fee",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-079",
+    "channel": "Email",
+    "text": "Subject: Selected for Executive Management Trainee Program\nWe were impressed by your leadership potential! Start as a Management Trainee earning uncapped commissions. Attend our mandatory orientation where you'll learn how to build your own sales team and buy your initial sample inventory.",
+    "notes": "Disguised MLM using 'Management Trainee' title + inventory purchase",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-080",
+    "channel": "SMS",
+    "text": "Be your own CEO! We are hiring 10 remote lifestyle coaches this week. Earn $2,000+ weekly from social media posts. Just invest $199 in your personal coaching license at [LINK] to start!",
+    "notes": "Vague 'lifestyle coach' pitch, upfront license investment",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-081",
+    "channel": "Email",
+    "text": "Subject: Unlimited Income Opportunity — No Experience Needed\nWhy work for someone else when you can earn passive income sharing our revolutionary travel club? Recruit just 2 members a week to hit Diamond Tier ($8,000/mo). Register for our briefing: [LINK].",
+    "notes": "Recruitment tiers ('Diamond Tier'), passive income travel club MLM",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-082",
+    "channel": "Instagram DM",
+    "text": "Hey girl! Love your vibe! I'm hiring 3 remote brand partners for my beauty & wellness business. Work from the beach, earn $500-$1,500/week! DM me 'BOSS' for details on grabbing your starter bundle.",
+    "notes": "Unsolicited social DM, lifestyle flexing, starter bundle requirement",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-083",
+    "channel": "Email",
+    "text": "Subject: Following up on your Operations Coordinator application\nHi [NAME], Thank you for your patience. The team enjoyed reviewing your background and would like to move directly to onboarding. Because our IT procurement vendor is currently transitioning systems, we'll issue a reimbursement check for your workstation so you can place the order directly. Let me know the best address to mail it.",
+    "notes": "Polite, realistic corporate tone; no exclamation marks; still a classic fake-check equipment scam",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-084",
+    "channel": "LinkedIn",
+    "text": "Hi [NAME], I came across your profile while sourcing for a remote Project Coordinator role ($42/hr, W-2). Our hiring lead prefers an asynchronous written screening on Telegram due to travel schedules. Would you be open to connecting with them at [HANDLE]?",
+    "notes": "Professional LinkedIn tone; subtly pivots to off-platform Telegram text interview",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-085",
+    "channel": "SMS",
+    "text": "H3llo! W3 are h1ring r3mote part-t1me ass1stants. E@rn $2OO-$5OO d@ily w0rking 1 hr from h0me. N0 exp needed. C0ntact Wh@tsApp: [PHONE].",
+    "notes": "Leetspeak / character substitution obfuscation to bypass keyword filters",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-086",
+    "channel": "WhatsApp",
+    "text": "W.o.r.k  f.r.o.m  h.o.m.e  o.p.p.o.r.t.u.n.i.t.y!  D.a.i.l.y  p.a.y  ₹.4.0.0.0  f.o.r  s.i.m.p.l.e  o.n.l.i.n.e  r.e.v.i.e.w.s.  M.e.s.s.a.g.e  [HANDLE].",
+    "notes": "Punctuation-splitting obfuscation to evade naive NLP tokenizers",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-087",
+    "channel": "Email",
+    "text": "Subject: Contractor Onboarding — Compliance Verification\nDear [NAME], We are excited to bring you on as a freelance copyeditor. As a standard policy for new international contractors, please submit a fully refundable $75 administrative bond via [LINK] before we grant access to the editorial queue.",
+    "notes": "Subtle, plausible freelance framing; still demands an upfront 'administrative bond'",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-088",
+    "channel": "Email",
+    "text": "Subject: Re: Senior UX Designer — Technical Assessment\nHi [NAME], Great speaking with you earlier. For the next step, please clone our private assessment repository and run the setup script inside the zip attached here: [LINK]. Note: disable your antivirus temporarily as our internal build tool isn't code-signed yet.",
+    "notes": "Highly realistic developer interview lure; asks candidate to disable antivirus and run untrusted code",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-089",
+    "channel": "WhatsApp",
+    "text": "Hello [NAME], apologies for the cold message. I'm an executive recruiter with [AGENCY]. We're filling a confidential remote role in digital merchandising (flexible 60 mins/day, settled daily via crypto or bank). May I share the brief?",
+    "notes": "Polite, low-pressure phrasing; conceals a daily-crypto task scam",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-090",
+    "channel": "Email",
+    "text": "Subject: Payroll Setup — Action Required Before Start Date\nWelcome to [COMPANY]! To ensure your first paycheck is not delayed, please complete your direct deposit authorization by signing into your bank portal through our third-party verification link: [LINK].",
+    "notes": "Standard HR onboarding language; maliciously asks for bank portal login",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-091",
+    "channel": "SMS",
+    "text": "Hi! Is this [NAME]? I got your number from a recruiting colleague. We have a remote QA position open ($35/hr). Totally flexible. Mind if I have our coordinator reach out to you on WhatsApp?",
+    "notes": "Conversational 'wrong-number/referral' opener used to warm up targets",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-092",
+    "channel": "Email",
+    "text": "Subject: Offer Letter Attached — Remote Logistics Liaison\nDear [NAME], Following our review of your resume on [JOB_BOARD], we are pleased to offer you the Remote Logistics Liaison role ($3,400/mo). Your primary responsibility is receiving domestic shipments at your residential address, verifying SKU accuracy, and forwarding them to our fulfillment center.",
+    "notes": "Formal offer letter tone disguising a parcel mule scam",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-093",
+    "channel": "Telegram",
+    "text": "Good afternoon. We are seeking detail-oriented individuals to assist with localized payment settlement for our cross-border e-commerce clients. Compensation is a fixed 4% processing fee per settled invoice. Please confirm if you hold an active domestic checking account.",
+    "notes": "Formal B2B finance jargon disguising a money mule pitch",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-094",
+    "channel": "Email",
+    "text": "Subject: Candidate Background Check — Partner Portal\nHi [NAME], You've advanced to the final round! Please complete your mandatory pre-employment credit and identity check at [LINK]. There is a nominal $2.95 verification charge on your card which is refunded once HR receives the report.",
+    "notes": "Low-dollar ($2.95) credit card harvesting / recurring subscription trap",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-095",
+    "channel": "Job Portal",
+    "text": "Remote AI Data Trainer ($45/hr) — Flexible Hours! Train next-gen AI models from home. No technical degree required. To prevent bot applications, applicants must verify their identity with a $25 refundable deposit at [LINK].",
+    "notes": "Trendy AI-job bait combined with an anti-bot 'refundable deposit' excuse",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-096",
+    "channel": "WhatsApp",
+    "text": "Namaste! [COMPANY] is hiring work-from-home customer support executives (₹28,000/mo). Interview is free, no registration fee! Only ₹1,499 courier insurance is needed for delivering the company laptop to your home.",
+    "notes": "Explicitly claims 'no registration fee' while disguising the fee as 'courier insurance'",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-097",
+    "channel": "Email",
+    "text": "Subject: Your Resume Matched: Executive Assistant (Remote)\nHello, Our CEO is currently traveling in Europe and needs a personal assistant immediately ($900/week part-time). Your first task will be purchasing digital gift cards for client appreciation using funds we will wire to you. Reply if interested.",
+    "notes": "Classic 'traveling CEO' gift-card personal assistant scam",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-098",
+    "channel": "SMS",
+    "text": "Reminder: Your remote job application expires tonight! Confirm your ₹35,000/month WFH slot by paying the ₹499 document verification charge at [LINK].",
+    "notes": "Low-amount (₹499) micro-fee scam with expiration urgency",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-099",
+    "channel": "LinkedIn",
+    "text": "Hi [NAME], loved your portfolio! We have an urgent freelance branding project ($4,000 budget). Before we send the deposit, our finance department requires you to register on our vendor portal [LINK] and pay a $150 vendor-onboarding fee.",
+    "notes": "Freelance client impersonation with fake vendor-onboarding fee",
+    "label": "SCAM"
+  },
+  {
+    "id": "SCAM-100",
+    "channel": "Email",
+    "text": "Subject: Congratulations — Selected for Mystery Shopper Program\nYou have been chosen as a Secret Shopper in your area! Earn $350 per assignment evaluating money-transfer services. We have mailed you a $2,400 check: deposit it, keep $350, and wire $2,050 via Western Union to test their customer service speed.",
+    "notes": "Classic mystery shopper fake-check + wire transfer scam",
+    "label": "SCAM"
+  },
+  {
+    "id": "LEGIT-001",
+    "channel": "Email",
+    "text": "From: careers@[COMPANY].com\nSubject: Interview Invitation — Software Engineer (Backend)\nHi [NAME], Thank you for applying to [COMPANY]. Our engineering team would love to schedule a 45-minute technical screen via Google Meet next week. Please select a time slot using our scheduling link [OFFICIAL_CALENDAR_LINK]. Best, Priya, Technical Recruiter.",
+    "notes": "Legitimate: Official domain, standard interview process, no fees or PII requested",
+    "label": "LEGIT"
+  },
+  {
+    "id": "LEGIT-002",
+    "channel": "LinkedIn",
+    "text": "Hi [NAME], I'm a Senior Recruiter at [COMPANY]. Your experience with Python and distributed systems caught my eye for a Senior Backend Engineer role (Hybrid, Bengaluru, ₹32-40 LPA). Happy to share the full JD here or hop on a quick 15-minute intro call if you're open to exploring.",
+    "notes": "Legitimate: Specific role details, realistic salary band, standard intro call",
+    "label": "LEGIT"
+  },
+  {
+    "id": "LEGIT-003",
+    "channel": "Email",
+    "text": "From: talent@[COMPANY].com\nSubject: Next Steps: Product Manager Application\nDear [NAME], Thanks for taking the time to speak with Sarah yesterday. The hiring panel would like to invite you to a 60-minute case study interview over Zoom. No preparation fees or external downloads are needed—just bring your questions!",
+    "notes": "Legitimate: References prior interview, standard Zoom round, transparent process",
+    "label": "LEGIT"
+  },
+  {
+    "id": "LEGIT-004",
+    "channel": "SMS",
+    "text": "Hi [NAME], this is Alex from [COMPANY] Recruiting. Just a quick reminder that your video interview with our Hiring Manager is tomorrow at 2:00 PM IST. The Zoom link is in your calendar invite. Reply if you need to reschedule!",
+    "notes": "Legitimate: Reminder for scheduled interview, no suspicious links or money requests",
+    "label": "LEGIT"
+  },
+  {
+    "id": "LEGIT-005",
+    "channel": "Email",
+    "text": "From: hr@[COMPANY].com\nSubject: Offer of Employment — Data Analyst\nDear [NAME], Following your final round interviews with the Analytics team, we are delighted to extend a formal offer for Data Analyst at $78,000/year. Please review the attached PDF offer letter and let us know if you have any questions before your proposed start date of Dec 7.",
+    "notes": "Legitimate: Follows multi-round interviews, realistic salary, standard review period",
+    "label": "LEGIT"
+  },
+  {
+    "id": "LEGIT-006",
+    "channel": "Job Portal",
+    "text": "Remote Customer Success Manager — SaaS (Full-Time). Salary: $65,000-$75,000/yr + health benefits & 401(k). Requirements: 3+ years B2B SaaS account management experience. Interview process: 30-min recruiter screen, hiring manager interview, and panel presentation. Apply via our official careers page.",
+    "notes": "Legitimate: Clear qualifications, realistic pay, transparent multi-stage process",
+    "label": "LEGIT"
+  },
+  {
+    "id": "LEGIT-007",
+    "channel": "Email",
+    "text": "From: onboarding@[COMPANY].com\nSubject: Equipment Shipping Address Confirmation\nHi [NAME], Welcome to [COMPANY]! Now that you've signed your offer letter, our IT department will ship your company-owned MacBook directly to your home. Please confirm your mailing address in Workday by Wednesday. (Note: You will never be asked to purchase equipment yourself.)",
+    "notes": "Legitimate: Company ships hardware directly, uses official HRIS, no check/reimbursement scheme",
+    "label": "LEGIT"
+  },
+  {
+    "id": "LEGIT-008",
+    "channel": "WhatsApp",
+    "text": "Hi [NAME], this is Neha from [COMPANY] HR in Pune. You applied for the Accounts Executive role on Naukri. Are you available for an in-person interview at our Baner office this Thursday at 11 AM? I will also email you the official invite from my company ID.",
+    "notes": "Legitimate: WhatsApp used for scheduling (common in India), backed up by official company email & office address",
+    "label": "LEGIT"
+  },
+  {
+    "id": "LEGIT-009",
+    "channel": "Email",
+    "text": "From: recruiting@[COMPANY].com\nSubject: Take-Home Coding Exercise — Frontend Engineer\nHi [NAME], As discussed in our phone screen, here is the link to our public GitHub take-home prompt [GITHUB_LINK]. It should take roughly 2-3 hours. Please submit your solution as a public repo or zip of source code only—no binaries needed.",
+    "notes": "Legitimate: Follows phone screen, standard public code prompt, no suspicious executables",
+    "label": "LEGIT"
+  },
+  {
+    "id": "LEGIT-010",
+    "channel": "LinkedIn",
+    "text": "Hello [NAME], we're hiring a Freelance Technical Writer for a 3-month contract ($50-$65/hr depending on experience). If you're currently taking on client work, I'd love to see a couple of writing samples and set up a 20-minute call with our Content Lead.",
+    "notes": "Legitimate: Realistic freelance rate, asks for portfolio samples and a call",
+    "label": "LEGIT"
+  },
+  {
+    "id": "LEGIT-011",
+    "channel": "Email",
+    "text": "From: hr-ops@[COMPANY].com\nSubject: Background Check Initiation via [VERIFIED_VENDOR]\nHi [NAME], Now that you've accepted our offer, you will receive an email directly from our background check partner [VERIFIED_VENDOR] to complete your standard verification. [COMPANY] covers 100% of the cost.",
+    "notes": "Legitimate: Post-offer background check paid entirely by employer",
+    "label": "LEGIT"
+  },
+  {
+    "id": "LEGIT-012",
+    "channel": "Email",
+    "text": "From: campus@[COMPANY].com\nSubject: Application Received — Summer 2027 Internship\nThank you for applying to the [COMPANY] Software Engineering Internship! Our university recruiting team reviews applications on a rolling basis and will reach out within 2-3 weeks if your profile matches an open team.",
+    "notes": "Legitimate: Standard ATS acknowledgement, realistic timeline",
+    "label": "LEGIT"
+  }
+]
